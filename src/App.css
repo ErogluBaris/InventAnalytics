@@ -1,0 +1,21 @@
+.App {
+  text-align: center;
+}
+
+#pagination {
+  margin-top: 60px;
+  margin-left:auto;
+  margin-right: auto;
+}
+
+#pagination a:hover{
+  cursor: pointer;
+}
+
+.detail #text{
+  text-align: left;
+}
+
+#movie_rows:hover{
+  cursor: pointer;
+}
