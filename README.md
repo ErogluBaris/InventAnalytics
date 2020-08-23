@@ -1,5 +1,11 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+
+## About Project
+This is a movie search project using [OMDb API](http://omdbapi.com/).
+In this project, React JS is used with Redux and React Hooks.
+
+
 ## Available Scripts
 
 In the project directory, you can run:
